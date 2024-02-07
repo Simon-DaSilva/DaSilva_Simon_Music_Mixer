@@ -1,6 +1,3 @@
-/* Tailwind and Bootstrap use px for media queries, with foundation using em
-for this library we will stick with pixels */
-
 /* ---General rules - scales images, videos to size of container--- */
 img, embed, object, video, picture {
     max-width: 100%; 
@@ -33,12 +30,13 @@ img, embed, object, video, picture {
      background-color: powderblue;
      color: rgb(27, 27, 27);
      border-radius: 5px;
-     padding: 150px;
+     padding: 10px;
      text-align: center;
      margin-top: 10px;
      margin-bottom:10px;
    }
-  
+   
+
   
   
   /* ---Mobile Library Grid Styles--- */
