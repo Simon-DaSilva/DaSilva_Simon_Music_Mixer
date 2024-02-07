@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.background {
+    background-color: black;
+}
+
+#kanit {
+    font-family: "Kanit", sans-serif;
+    line-height: 2;
+    text-align: center;
+    color: white;
+}
+
+.stage {
+    background-color: transparent;
+    color: rgb(27, 27, 27);
+    border-radius: 5px;
+   
+    
+    margin-top: 10px;
+    margin-bottom:10px;
+  }
+
+  .icons {
+    object-fit: contain;
+    width: 14%;
+    float: left;
+    padding-left: 15px;
+    
+  }
