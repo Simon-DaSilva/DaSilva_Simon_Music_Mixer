@@ -1,0 +1,13 @@
+Saxaphone sprite = <a href="https://www.flaticon.com/free-icons/saxophone" title="saxophone icons">Saxophone icons created by Freepik - Flaticon</a>
+
+Trombone sprite = <a href="https://www.flaticon.com/free-icons/trombone" title="trombone icons">Trombone icons created by Freepik - Flaticon</a>
+
+Trumpet sprite = <a href="https://www.flaticon.com/free-icons/trumpet" title="trumpet icons">Trumpet icons created by Freepik - Flaticon</a>
+
+Drum sprite = <a href="https://www.flaticon.com/free-icons/drum" title="drum icons">Drum icons created by Georgy - Flaticon</a>
+
+Bass Guitar sprite = <a href="https://www.flaticon.com/free-icons/bass-guitar" title="bass guitar icons">Bass guitar icons created by Freepik - Flaticon</a>
+
+Piano sprite = <a href="https://www.flaticon.com/free-icons/piano" title="piano icons">Piano icons created by Flat Icons - Flaticon</a>
+
+Clarinet sprite = <a href="https://www.flaticon.com/free-icons/clarinet" title="clarinet icons">Clarinet icons created by Freepik - Flaticon</a>
