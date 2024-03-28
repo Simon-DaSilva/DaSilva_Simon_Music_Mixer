@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DDD9AC;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+</style>
+<polyline class="st0" points="339.81,425.46 862.31,205.46 862.31,479.46 339.81,563.46 "/>
+<g>
+	<ellipse class="st1" cx="334.31" cy="494.46" rx="172" ry="68.5"/>
+	<g>
+		<path d="M334.31,426.46c45.95,0,89.14,7.15,121.6,20.14c32.18,12.87,49.9,29.87,49.9,47.86s-17.72,34.99-49.9,47.86
+			c-32.47,12.99-75.65,20.14-121.6,20.14s-89.14-7.15-121.6-20.14c-32.18-12.87-49.9-29.87-49.9-47.86s17.72-34.99,49.9-47.86
+			C245.17,433.61,288.36,426.46,334.31,426.46 M334.31,425.46c-95.27,0-172.5,30.89-172.5,69s77.23,69,172.5,69
+			s172.5-30.89,172.5-69S429.58,425.46,334.31,425.46L334.31,425.46z"/>
+	</g>
+</g>
+</svg>
