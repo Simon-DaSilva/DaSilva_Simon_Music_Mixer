@@ -15,10 +15,11 @@
     background-color: transparent;
     color: rgb(27, 27, 27);
     border-radius: 5px;
-   
-    
+    width: 100%;
+    text-align:center;
     margin-top: 10px;
     margin-bottom:10px;
+    
   }
 
   .icons {
@@ -26,5 +27,19 @@
     width: 14%;
     float: left;
     padding-left: 15px;
+    cursor: pointer;
+    display: block;
     
   }
+
+  .drop-zone {
+    width: 50%;
+    height: 50%;
+    position: relative;
+  }
+  
+  .drop-zone img {
+    padding: 0;
+    width: 90%;
+  }
+  
